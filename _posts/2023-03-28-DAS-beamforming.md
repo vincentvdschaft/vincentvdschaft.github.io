@@ -1,5 +1,4 @@
 # Ultrasound beeldvorming met Delay-And-Sum beamforming
-
 Veel mensen kunnen zich wel een voorstelling maken van hoe een röntgenfoto gemaakt wordt, maar hoe een ultrasound afbeelding tot stand komt uit geluid is minder bekend. In deze blogpost laat ik zien hoe de simpelste vorm van ultrasound imaging werkt. Deze techniek heet **Delay-And-Sum beamforming** of DAS in het kort.
 
 Laten we eerst kijken naar wat er fysiek gebeurt bij het maken van een echo en naar wat we eigenlijk aan het meten zijn. Om een plaatje te maken met ultrasound wordt er gebruikgemaakt van een _transducer_. Dit is een meetinstrument met daarin een rij sensors die geluidsgolven kunnen uitzenden en opvangen. Om een beeld te vormen wordt eerst een geluidsgolf uitgezonden. De geluidsgolf beweegt door het weefsel heen waar het op verschillende structuren reflecteert. Dit proces van reflecteren is super complex, maar gelukkig bestaat er een simpel model voor:
@@ -16,7 +15,7 @@ Om het beamforming proces te begrijpen kijken we eerst naar een sterk versimpeld
 
 <details open>
     <summary>(klik om in te klappen)</summary>
-<img src="https://drive.google.com/uc?export=view&id=1wZM23qHatUBOjK2lSWhAXmeZ5lzhe72m">
+<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81oJoeF2RcbP4eWjPQxFVeGTTIWh9xcwEud1HoSBWNNfEYZFTg8wrE35qkiy7Rarrf7Bs_1NjMypG64AVwOYrD35Khg3vA=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81oJoeF2RcbP4eWjPQxFVeGTTIWh9xcwEud1HoSBWNNfEYZFTg8wrE35qkiy7Rarrf7Bs_1NjMypG64AVwOYrD35Khg3vA=s1600" /> </a>
 <p></p>
 </details>
 
@@ -38,7 +37,7 @@ Maar we zijn niet alleen geïnteresseerd in **hoe ver weg** de verstrooier is. W
 
 <details open>
     <summary>Figuur 1 - (klik om in te klappen)</summary>
-<img src="https://drive.google.com/uc?export=view&id=1watlErfzUEQ7fXs5ZWOeCwsvd_93jTtf">
+<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qbhzoIMkYH-6DVUoM1RmwAwUuoZ9hwPDWM8dhwffu8LsGOY7wa-Ko42Veggv7QbYfd4a1_wYzymAzWaMfJNddUbrC3LQ=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qbhzoIMkYH-6DVUoM1RmwAwUuoZ9hwPDWM8dhwffu8LsGOY7wa-Ko42Veggv7QbYfd4a1_wYzymAzWaMfJNddUbrC3LQ=s1600" /> </a>
 <p></p>
 </details>
 
@@ -46,7 +45,7 @@ Dit betekent dat de reflecties van alle verstrooiers die op een circkel liggen t
 
 <details open>
     <summary>Figuur 2 - (klik om in te klappen)</summary>
-<img src="https://drive.google.com/uc?export=view&id=1w_87EJCG6XigLKtGcfylD8yzjo5LUCsc">
+<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qrByO4dC0oG_Nu1mxV2ZtyYHEbUECMD2frrtT_nE-YtmkLmMMZ4HvDaUVNrstuiPvB6ju2E3n3kemlFCeWQMo5iwZvqQ=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qrByO4dC0oG_Nu1mxV2ZtyYHEbUECMD2frrtT_nE-YtmkLmMMZ4HvDaUVNrstuiPvB6ju2E3n3kemlFCeWQMo5iwZvqQ=s1600" /> </a>
 <p></p>
 </details>
 
@@ -73,7 +72,7 @@ De mogelijke locaties voor de verstrooier zijn nu dus de locaties waarvoor deze 
 
 <details open>
     <summary>Figuur 3 - (klik om in te klappen)</summary>
-<img src="https://drive.google.com/uc?export=view&id=1waglBJIDwWPb8CeCNNfPCtRWWmNoemO6">
+<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qybnJ3x8QOkzih_OGLIVhnFOuMOa-MDnK0H4bT1QnAi09o6WWkN4ouPuOMzr60pCu5W6_X3xGubFnwYa4js5bkyJRA0g=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qybnJ3x8QOkzih_OGLIVhnFOuMOa-MDnK0H4bT1QnAi09o6WWkN4ouPuOMzr60pCu5W6_X3xGubFnwYa4js5bkyJRA0g=s1600" /> </a>
 <p></p>
 </details>
 
@@ -83,7 +82,7 @@ We hebben nu gezien dat je met een sensor kan bepalen hoe ver een verstrooier we
 
 <details open>
     <summary>Figuur 4 - (klik om in te klappen)</summary>
-<img src="https://drive.google.com/uc?export=view&id=1wZaezCDqXSoCQqVlXq16WSKWJej-Rn8t">
+<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qWib0mAYVpKu0_gvYBxWT7EsW-Ww9PTA0f0nJArPNfV4-93nksDFsYpDqaEEdxXmTApedsIfl2KWAuXL_tAZ8YfQTJ0g=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qWib0mAYVpKu0_gvYBxWT7EsW-Ww9PTA0f0nJArPNfV4-93nksDFsYpDqaEEdxXmTApedsIfl2KWAuXL_tAZ8YfQTJ0g=s1600" /> </a>
 <p></p>
 </details>
 
@@ -107,7 +106,7 @@ Het plaatje hieronder laat zien wat er gebeurt als je op deze manier op verschil
 
 <details open>
     <summary>Figuur 5 - (klik om in te klappen)</summary>
-<img src="https://drive.google.com/uc?export=view&id=1wYr34oSEPdBccfKU7jkXm1UzNx3ddwsE">
+<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81rS7OvPsFRZvrN_z-e82ieFNsvRXoQaYGNIhmPz5g4xO5cVfSMYZEup3YNbbMtGdtjdtRld9hOdNmAfTAH1t24FAxPQ=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81rS7OvPsFRZvrN_z-e82ieFNsvRXoQaYGNIhmPz5g4xO5cVfSMYZEup3YNbbMtGdtjdtRld9hOdNmAfTAH1t24FAxPQ=s1600" /> </a>
 <p></p>
 </details>
 
