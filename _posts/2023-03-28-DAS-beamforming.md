@@ -11,7 +11,7 @@ De reflecties afkomstig van de verstrooiers worden opgevangen door de elementen 
 
 ## Scenario 1 - één sensor, één verstrooier
 
-Om het beamforming proces te begrijpen kijken we eerst naar een sterk versimpeld scenario: We hebben een transducer met maar 1 sensor element $E_0$ en we scannen een plaatje met maar 1 verstrooier $S_0$ er in.
+Om het beamforming proces te begrijpen kijken we eerst naar een sterk versimpeld scenario: We hebben een transducer met maar 1 sensor element $E_0$ en we scannen een plaatje met maar 1 verstrooier $V_0$ er in.
 
 <details open>
     <summary>(klik om in te klappen)</summary>
@@ -19,7 +19,7 @@ Om het beamforming proces te begrijpen kijken we eerst naar een sterk versimpeld
 <p></p>
 </details>
 
-In het rechter plaatje zie je hoe de geluidsgolf zich voortplant vanuit $E_0$ en vestrooid wordt door $S_0$. In de linker grafiek zie je het geluidssignaal dat wordt ontvangen door $E_0$. Aan het signaal dat binnenkomt kunnen we twee dingen afleiden:
+In het rechter plaatje zie je hoe de geluidsgolf zich voortplant vanuit $E_0$ en vestrooid wordt door $V_0$. In de linker grafiek zie je het geluidssignaal dat wordt ontvangen door $E_0$. Aan het signaal dat binnenkomt kunnen we twee dingen afleiden:
 
 1. Omdat er een piek in het signaal zit weten we dat er een verstrooier aanwezig moet zijn.
 2. Omdat we weten hoe snel een geluidsgolf beweegt kunnen we aan tijd tussen verzenden en ontvangen ook afleiden **hoe ver weg** de verstrooier zich bevindt.
@@ -33,7 +33,7 @@ Dit is de afstand van de heenweg en de terugweg samen. De verstrooier ligt dus h
 </p>
 </details>
 
-Maar we zijn niet alleen geïnteresseerd in **hoe ver weg** de verstrooier is. We willen weten **waar** die is. Daar gaan we op deze manier helaas nooit achter komen. Dat kunnen we zien aan dit alternatieve scenario: Als $S_0$ op een andere plek staat, maar wel even ver weg is van de sensor meten we precies het zelfde signaal! Weer zit de piek op precies $15\mu s$.
+Maar we zijn niet alleen geïnteresseerd in **hoe ver weg** de verstrooier is. We willen weten **waar** die is. Daar gaan we op deze manier helaas nooit achter komen. Dat kunnen we zien aan dit alternatieve scenario: Als $V_0$ op een andere plek staat, maar wel even ver weg is van de sensor meten we precies het zelfde signaal! Weer zit de piek op precies $15\mu s$.
 
 <details open>
     <summary>Figuur 1 - (klik om in te klappen)</summary>
@@ -60,7 +60,7 @@ We nemen nu twee sensoren in plaats van één. Opnieuw zend element $E_0$ een ge
   <summary>🧮 Uitwerking (klik om uit te klappen)</summary>
 <p>
 
-Voor $E_0$ is kunnen we de afstand berekenen zoals eerder: De tijd waarna we de piek opvangen met sensor $E_0$, $\tau_0$, is de tijd van $E_0$ naar $S_0$ en terug. De totale afstand tussen $E_0$ en $S_0$ is dus $$d_{heen}+d_{terug}=c\cdot \tau_0$$
+Voor $E_0$ is kunnen we de afstand berekenen zoals eerder: De tijd waarna we de piek opvangen met sensor $E_0$, $\tau_0$, is de tijd van $E_0$ naar $V_0$ en terug. De totale afstand tussen $E_0$ en $V_0$ is dus $$d_{heen}+d_{terug}=c\cdot \tau_0$$
 De heen- en terugweg zijn hier even lang dus alle mogelijke locaties voor de verstrooier zijn de locaties waarvoor geld dat de afstand tot $E_0$ gelijk is $\frac{1}{2}\cdot c \cdot \tau_0$.
 <br>
 <br>
