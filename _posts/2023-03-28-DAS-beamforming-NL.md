@@ -15,7 +15,7 @@ Om het beamforming proces te begrijpen kijken we eerst naar een sterk versimpeld
 
 <details open>
     <summary>(klik om in te klappen)</summary>
-<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81oJoeF2RcbP4eWjPQxFVeGTTIWh9xcwEud1HoSBWNNfEYZFTg8wrE35qkiy7Rarrf7Bs_1NjMypG64AVwOYrD35Khg3vA=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81oJoeF2RcbP4eWjPQxFVeGTTIWh9xcwEud1HoSBWNNfEYZFTg8wrE35qkiy7Rarrf7Bs_1NjMypG64AVwOYrD35Khg3vA=s1600" /> </a>
+<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qsPf2giLjkCII38VLK2agntR1smzjcEKmtvSuULG1rslnPxVHBmjyFTLmEMVpCu7_RbDFGoq2oqkbr1UPMyx8jWOVKEA=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qsPf2giLjkCII38VLK2agntR1smzjcEKmtvSuULG1rslnPxVHBmjyFTLmEMVpCu7_RbDFGoq2oqkbr1UPMyx8jWOVKEA=s1600" style="border:none;"/> </a>
 <p></p>
 </details>
 
@@ -36,16 +36,16 @@ Dit is de afstand van de heenweg en de terugweg samen. De verstrooier ligt dus h
 Maar we zijn niet alleen geïnteresseerd in **hoe ver weg** de verstrooier is. We willen weten **waar** die is. Daar gaan we op deze manier helaas nooit achter komen. Dat kunnen we zien aan dit alternatieve scenario: Als $V_0$ op een andere plek staat, maar wel even ver weg is van de sensor meten we precies het zelfde signaal! Weer zit de piek op precies $15\mu s$.
 
 <details open>
-    <summary>Figuur 1 - (klik om in te klappen)</summary>
-<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qbhzoIMkYH-6DVUoM1RmwAwUuoZ9hwPDWM8dhwffu8LsGOY7wa-Ko42Veggv7QbYfd4a1_wYzymAzWaMfJNddUbrC3LQ=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qbhzoIMkYH-6DVUoM1RmwAwUuoZ9hwPDWM8dhwffu8LsGOY7wa-Ko42Veggv7QbYfd4a1_wYzymAzWaMfJNddUbrC3LQ=s1600" /> </a>
+    <summary>(klik om in te klappen)</summary>
+<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81oAE9Kss72nydYhGhcE-gtfEkkUga-eM3Y1MBehpCsQkgVVcfCrgzXZw67j9puQcwVOO_GoKZuZu4JRBMH5ih9K5VLPUg=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81oAE9Kss72nydYhGhcE-gtfEkkUga-eM3Y1MBehpCsQkgVVcfCrgzXZw67j9puQcwVOO_GoKZuZu4JRBMH5ih9K5VLPUg=s1600" style="border:none;"/> </a>
 <p></p>
 </details>
 
 Dit betekent dat de reflecties van alle verstrooiers die op een circkel liggen tegelijkerijd aankomen bij $E_0$. We kunnen dus geen onderscheid maken tussen de verschillende verstrooiers. Je ziet hier ook dat de gemeten piek nu veel hoger is. De reflecties van alle verstrooiers tellen hier bij elkaar op. (Daar komen we later op terug.)
 
 <details open>
-    <summary>Figuur 2 - (klik om in te klappen)</summary>
-<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qrByO4dC0oG_Nu1mxV2ZtyYHEbUECMD2frrtT_nE-YtmkLmMMZ4HvDaUVNrstuiPvB6ju2E3n3kemlFCeWQMo5iwZvqQ=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qrByO4dC0oG_Nu1mxV2ZtyYHEbUECMD2frrtT_nE-YtmkLmMMZ4HvDaUVNrstuiPvB6ju2E3n3kemlFCeWQMo5iwZvqQ=s1600" /> </a>
+    <summary>(klik om in te klappen)</summary>
+<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qy_BkwfPuJfoLLr46OT-i_EvzjVal1z1mDI7W7d42ry000zyLcZAmKOm-MNozSaAQOnF8iAGsqhZRithrvkEZHBvtnDQ=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qy_BkwfPuJfoLLr46OT-i_EvzjVal1z1mDI7W7d42ry000zyLcZAmKOm-MNozSaAQOnF8iAGsqhZRithrvkEZHBvtnDQ=s1600" style="border:none;"/> </a>
 <p></p>
 </details>
 
@@ -71,8 +71,8 @@ De mogelijke locaties voor de verstrooier zijn nu dus de locaties waarvoor deze 
 </details>
 
 <details open>
-    <summary>Figuur 3 - (klik om in te klappen)</summary>
-<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qybnJ3x8QOkzih_OGLIVhnFOuMOa-MDnK0H4bT1QnAi09o6WWkN4ouPuOMzr60pCu5W6_X3xGubFnwYa4js5bkyJRA0g=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qybnJ3x8QOkzih_OGLIVhnFOuMOa-MDnK0H4bT1QnAi09o6WWkN4ouPuOMzr60pCu5W6_X3xGubFnwYa4js5bkyJRA0g=s1600" /> </a>
+    <summary>(klik om in te klappen)</summary>
+<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81ox_tczrM9pGIjtwPVjFAB2oGm4AQdbGaYs2uFZgLYdXMxxp6lGQeomEKpcdYmBu955O8Axt7c6g2UBri2vAKeTLw2xVQ=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81ox_tczrM9pGIjtwPVjFAB2oGm4AQdbGaYs2uFZgLYdXMxxp6lGQeomEKpcdYmBu955O8Axt7c6g2UBri2vAKeTLw2xVQ=s1600" style="border:none;"/> </a>
 <p></p>
 </details>
 
@@ -81,8 +81,8 @@ De mogelijke locaties voor de verstrooier zijn nu dus de locaties waarvoor deze 
 We hebben nu gezien dat je met een sensor kan bepalen hoe ver een verstrooier weg is en dat je met twee of meer sensors kan zien waar een verstrooier zich bevindt. Het probleem is alleen dat we in de praktijk niet kunnen aannemen dat er maar 1 verstrooier is. Dat is namelijk letterlijk nooit het geval. In de praktijk zijn er heel veel verstrooiers die allemaal 'door elkaar praten'. Laten we kijken naar een voorbeeld dat wat dichter bij de realiteit ligt: We nemen $9$ verstrooiers op willekeurige plekken en meer dan twee sensoren:
 
 <details open>
-    <summary>Figuur 4 - (klik om in te klappen)</summary>
-<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qWib0mAYVpKu0_gvYBxWT7EsW-Ww9PTA0f0nJArPNfV4-93nksDFsYpDqaEEdxXmTApedsIfl2KWAuXL_tAZ8YfQTJ0g=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qWib0mAYVpKu0_gvYBxWT7EsW-Ww9PTA0f0nJArPNfV4-93nksDFsYpDqaEEdxXmTApedsIfl2KWAuXL_tAZ8YfQTJ0g=s1600" /> </a>
+    <summary>(klik om in te klappen)</summary>
+<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81p-XQat-e7k-AZZKp8VfmJQahVU3VoR6sjV2KyB9kkoJx2trizXneM-siKJVKkWmyuNNYbYfX4LeOZ2bKR-B583tLH3=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81p-XQat-e7k-AZZKp8VfmJQahVU3VoR6sjV2KyB9kkoJx2trizXneM-siKJVKkWmyuNNYbYfX4LeOZ2bKR-B583tLH3=s1600" style="border:none;"/> </a>
 <p></p>
 </details>
 
@@ -105,8 +105,8 @@ De berekende vertragingen zijn aangegeven in het onderstaande plaatje.
 Het plaatje hieronder laat zien wat er gebeurt als je op deze manier op verschillende locaties $P$ kijkt en alle signalen optelt. Aan de gestippelde lijnen in de linker grafiekjes zien we welk deel van het signaal genomen wordt om op $P$ te focussen. De balk aan de rechterkant laat zien hoe hoog de totale respons is. Het aandeel van de verschillende sensoren in de hoogte van de balk is steeds gescheiden met een zwarte lijn. Om het duidelijker te maken welke sensor een sterk signaal ontvangt verschijnt de ellips en een lijn naar het bijbehorende element als het signaal dat dat element opvangt sterker wordt.
 
 <details open>
-    <summary>Figuur 5 - (klik om in te klappen)</summary>
-<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81rS7OvPsFRZvrN_z-e82ieFNsvRXoQaYGNIhmPz5g4xO5cVfSMYZEup3YNbbMtGdtjdtRld9hOdNmAfTAH1t24FAxPQ=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81rS7OvPsFRZvrN_z-e82ieFNsvRXoQaYGNIhmPz5g4xO5cVfSMYZEup3YNbbMtGdtjdtRld9hOdNmAfTAH1t24FAxPQ=s1600" /> </a>
+    <summary>(klik om in te klappen)</summary>
+<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qOSrGvPHQhU3FTQBX_Niy0k7rY1ucw46luF6MtErESjHC70xyW7LKwIR-HUSO35l-qr1IHmIsJ2s2fTND2i0LrD66CdQ=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qOSrGvPHQhU3FTQBX_Niy0k7rY1ucw46luF6MtErESjHC70xyW7LKwIR-HUSO35l-qr1IHmIsJ2s2fTND2i0LrD66CdQ=s1600" style="border:none;"/> </a>
 <p></p>
 </details>
 
