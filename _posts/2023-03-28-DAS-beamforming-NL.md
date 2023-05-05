@@ -102,17 +102,20 @@ De berekende vertragingen zijn aangegeven in het onderstaande plaatje.
 </p>
 </details>
 
-Het plaatje hieronder laat zien wat er gebeurt als je op deze manier op verschillende locaties $P$ kijkt en alle signalen optelt. Aan de gestippelde lijnen in de linker grafiekjes zien we welk deel van het signaal genomen wordt om op $P$ te focussen. De balk aan de rechterkant laat zien hoe hoog de totale respons is. Het aandeel van de verschillende sensoren in de hoogte van de balk is steeds gescheiden met een zwarte lijn. Om het duidelijker te maken welke sensor een sterk signaal ontvangt verschijnt de ellips en een lijn naar het bijbehorende element als het signaal dat dat element opvangt sterker wordt.
+Het plaatje hieronder laat zien wat er gebeurt als je op deze manier op verschillende locaties $P$ kijkt en alle signalen optelt. Aan de gestippelde lijnen in de linker grafiekjes zien we welk deel van het ontvangen signaal gebruikt wordt om op $P$ te focussen. De balk aan de rechterkant laat zien hoe hoog de totale respons is. Het aandeel van de verschillende sensoren in de hoogte van de balk is steeds gescheiden met een lijn. Om het duidelijker te maken welke sensor een sterk signaal ontvangt verschijnt de ellips en een lijn naar het bijbehorende element als het signaal dat dat element opvangt sterker wordt. Op de achtergrond zie je het plaatje dat gevormd wordt wanneer je $P$ over alle mogelijke locaties laat lopen en de pixel helderheid bepaalt door de totale respons op die locatie.
 
 <details open>
     <summary>(klik om in te klappen)</summary>
 <a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qOSrGvPHQhU3FTQBX_Niy0k7rY1ucw46luF6MtErESjHC70xyW7LKwIR-HUSO35l-qr1IHmIsJ2s2fTND2i0LrD66CdQ=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qOSrGvPHQhU3FTQBX_Niy0k7rY1ucw46luF6MtErESjHC70xyW7LKwIR-HUSO35l-qr1IHmIsJ2s2fTND2i0LrD66CdQ=s1600" style="border:none;"/> </a>
 <p></p>
 </details>
+Aan dit plaatje kunnen we een aantal dingen zien.
+- We zien dat de respons veruit het grootste is wanneer we daadwerkelijk op een verstrooier gefocust zijn en dat de verstrooiers te herkennen zijn in het plaatje.
+- We zien echter ook dat de uitslag niet altijd nul is wanneer we focussen op een punt waar niks is. Dat komt omdat het focuspunt $P$ dan op de zelfde ellips als een of meer van de verstrooiers ligt.
+- Als het focuspunt van een verstrooier af beweegt zien we dat de opgetelde respons niet in één keer naar beneden springt. Dit is omdat de puls die we verzonden hebben niet oneindig scherp is, maar een zekere breedte heeft. We moeten eerste even 'de berg af lopen' voor we bij nul zijn. Dit is een limiet aan hoe scherp het plaatje uiteindelijk kan worden.
+- Verstrooiers $V_7$ en $V_8$ hebben een meer uitgesmeerde stip in het plaatje dan bijvoorbeeld $V_5$. Dit komt omdat $V_7$ en $V_8$ meer naar de zijkant liggen waardoor de ellipsen van de verschillende elementen meer op elkaar lijken en dus voor een groter gebied overlappen. De resulotie van een ultrasound plaatje is dus niet overal hetzelfde!
 
-We zien dat de summed response veruit het grootste is wanneer we daadwerkelijk op een verstrooier gefocust zijn. Dat is een goed teken! Dat betekend dat we de verstrooiers zullen kunnen herkennen in het plaatje dat we maken 🙂. We zien echter ook dat de uitslag niet altijd nul is wanneer we focussen op een punt waar niks is. Dat komt omdat het focuspunt $P$ dan op de zelfde ellips als een of meer van de verstrooiers ligt. Als laatste kan je ook nog zien dat de respons niet in één keer naar beneden springt als je van een verstrooier beweegt. Dit is omdat de puls die we verzonden hebben niet oneindig scherp is. We moeten eerste even 'de berg af lopen' voor we bij nul zijn. Dit is een limiet aan hoe scherp het plaatje uiteindelijk kan worden.
-
-Al met al is het duidelijk dat het principe werkt. Het enige wat ons nu nog rest is deze berekening doen voor elke pixel in het plaatje. Hoe sterker de reflectie die we berekenen, hoe witter we de pixel maken. Zo kan je uit een reeks schijnbaar chaotische signalen een afbeelding maken.
+Hoewel de kwaliteit van dit plaatje nog te wensen overlaat is het duidelijk dat het principe werkt en een manier biedt om uit een reeks schijnbaar chaotische signalen een afbeelding maken.
 
 <details>
   <summary>Sidenote</summary>

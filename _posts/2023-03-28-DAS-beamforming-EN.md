@@ -97,7 +97,7 @@ We now choose a focus point $P$. We want to know how strong the reflections are 
 <p>
 If we have chosen a focus point $P$, we can find the corresponding delays and thus the locations in the received signals as follows.
 For each element $E_i$, we can calculate the total distance that the wave had to travel from $E_2$ (the sender) to $P$ and then to $E_i$. The total distance consists of a distance forward $d_{forward}$ and a distance back $d_{back}$. The delay $\tau_i$ that belongs to this is
-$$\tau_i=\frac{d_{heen}+d_{terug}}{c}$$
+$$\tau_i=\frac{d_{to}+d_{back}}{c}$$
 The calculated delays are shown in the figure below.
 </p>
 </details>
@@ -110,9 +110,15 @@ The image below shows what happens when you look at different locations $P$ in t
 <p></p>
 </details>
 
-We see that the summed response is by far the largest when we are actually focused on a scatterer. That is a good sign! This means that we will be able to recognize the scatterers in the image we make 🙂. However, we also see that the result is not always zero when we focus on a point where there is nothing. This is because the focus point $P$ is then on the same ellipse as one or more of the scatterers. Finally, you can also see that the response does not jump down in one go when you move away from a scatterer. This is because the pulse we sent out is not infinitely sharp. We first have to "walk down the mountain" before we reach zero. This is a limit to how sharp the image can eventually become.
+In this figure, we can see several things:
 
-All in all, it is clear that the principle works. All that remains is to do this calculation for each pixel in the image. The stronger the reflection we calculate, the whiter we make the pixel. This way, you can make an image from a series of seemingly chaotic signals.
+- We see that the response is by far the largest when we are actually focused on a scatterer and that the scatterers are recognizable in the image.
+- However, we also see that the output is not always zero when we focus on a point where there is nothing. This is because the focus point $P$ then lies on the same ellipse as one or more of the scatterers.
+- If the focus point moves away from a scatterer, we see that the summed response does not immediately drop to zero. This is because the pulse we sent out is not infinitely sharp but has a certain width. We first have to 'walk down the mountain' before we reach zero. This is a limit to how sharp the image can ultimately become.
+- Scatterers $S_7$ and $S_8$ have a more smeared out dot in the image than, for example, $S_5$. This is because $S_7$ and $S_8$ are located more to the side, causing the ellipses of the different elements to be more similar, which means their approximate overlap covers a larger region. The resolution of an ultrasound image is therefore not the same everywhere!
+
+Although the quality of the image leaves a lot to be desired, it is clear that the principle works and provides us with a way to create an image from a series of seemingly chaotic signals.
+
 
 <details>
 <summary>Sidenote</summary>
