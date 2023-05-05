@@ -102,7 +102,7 @@ The calculated delays are shown in the figure below.
 </p>
 </details>
 
-The image below shows what happens when you look at different locations $P$ in this way and add up all the signals. The dashed lines in the left graphs show which part of the signal is taken to focus on $P$. The bar on the right shows the total response. The contribution of the different sensors to the height of the bar is always separated by a black line. To make it clearer which sensor receives a strong signal, the ellipse and a line to the corresponding element appears when the signal that catches that element becomes stronger.
+The image below shows what happens when you look at different locations $P$ in this way and add up all the signals. The dashed lines in the left graphs show which part of the received signal is used to focus on $P$. The bar on the right shows how high the total response is. The contribution of the different sensors to the height of the bar is always separated by a line. To make it clearer which sensor receives a strong signal, the ellipse and a line to the corresponding element appear when the signal received by that element becomes stronger. In the background, you can see the image formed when you let $P$ move over all possible locations and assign the pixel a brightness based on the total response at that location.
 
 <details open>
     <summary>(Click to collapse)</summary>
