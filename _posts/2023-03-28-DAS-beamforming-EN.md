@@ -16,7 +16,7 @@ To understand the beamforming process, let's first look at a highly simplified s
 
 <details open>
     <summary>(Click to collapse)</summary>
-<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qsPf2giLjkCII38VLK2agntR1smzjcEKmtvSuULG1rslnPxVHBmjyFTLmEMVpCu7_RbDFGoq2oqkbr1UPMyx8jWOVKEA=s1600?source=screenshot.guru"> <img src="https://drive.google.com/uc?export=view&id=1wZM23qHatUBOjK2lSWhAXmeZ5lzhe72m"  style="border:none;"/> </a>
+<a href="https://drive.google.com/uc?export=view&id=1wZM23qHatUBOjK2lSWhAXmeZ5lzhe72m"> <img src="https://drive.google.com/uc?export=view&id=1wZM23qHatUBOjK2lSWhAXmeZ5lzhe72m"  style="border:none;"/> </a>
 <p></p>
 </details>
 
@@ -38,7 +38,7 @@ But we are not only interested in **how far away** the scatterer is. We want to 
 
 <details open>
     <summary>(Click to collapse)</summary>
-<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81oAE9Kss72nydYhGhcE-gtfEkkUga-eM3Y1MBehpCsQkgVVcfCrgzXZw67j9puQcwVOO_GoKZuZu4JRBMH5ih9K5VLPUg=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81oAE9Kss72nydYhGhcE-gtfEkkUga-eM3Y1MBehpCsQkgVVcfCrgzXZw67j9puQcwVOO_GoKZuZu4JRBMH5ih9K5VLPUg=s1600"  style="border:none;"/> </a>
+<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81oAE9Kss72nydYhGhcE-gtfEkkUga-eM3Y1MBehpCsQkgVVcfCrgzXZw67j9puQcwVOO_GoKZuZu4JRBMH5ih9K5VLPUg=s1600?source=screenshot.guru"> <img src="https://drive.google.com/uc?export=view&id=1q3rOol3qPVWTe9v5iOZhqzYp_ujc2cGo"  style="border:none;"/> </a>
 <p></p>
 </details>
 
