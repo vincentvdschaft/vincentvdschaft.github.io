@@ -16,7 +16,7 @@ To understand the beamforming process, let's first look at a highly simplified s
 
 <details open>
     <summary>(Click to collapse)</summary>
-<img src="assets/images/scene-0-just-one-en-dark.gif"  style="border:none;"/> </a>
+<img src="{{ 'assets/images/scene-0-just-one-en-dark.gif' | relative_url }}" style="border:none;"/> </a>
 <p></p>
 </details>
 
