@@ -1,6 +1,6 @@
 # Ultrasound Imaging with Delay-And-Sum beamforming
 
-Many people have some idea of how an X-ray is made, but how an ultrasound image is created from sound is less well known. In this blog post, I will show how the simplest form of ultrasound imaging works. This technique is called **Delay-And-Sum beamforming** or DAS for short.
+Many people have some idea of how an X-ray is made, but how an ultrasound image is created from sound is less well known. In this blog post, I will show how the most common technique to form an ultrasound image works. This technique is called **Delay-And-Sum beamforming** or DAS for short.
 
 First, let's look at what happens physically when making an echo and what we are actually measuring. To create an image with ultrasound, a *transducer* is used. This is a measuring instrument with a row of sensors that can transmit and receive sound waves. To form an image, a sound wave is first emitted. The sound wave moves through the tissue where it reflects on different structures. This reflection process is super complex, but fortunately there is a simple model for it:
 
