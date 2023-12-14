@@ -1,5 +1,5 @@
 # Ultrasound beeldvorming met Delay-And-Sum beamforming
-Veel mensen kunnen zich wel een voorstelling maken van hoe een röntgenfoto gemaakt wordt, maar hoe een ultrasound afbeelding tot stand komt uit geluid is minder bekend. In deze blogpost laat ik zien hoe de simpelste vorm van ultrasound imaging werkt. Deze techniek heet **Delay-And-Sum beamforming** of DAS in het kort.
+Veel mensen kunnen zich wel een voorstelling maken van hoe een röntgenfoto gemaakt wordt, maar hoe een ultrasound afbeelding tot stand komt uit geluid is minder bekend. In deze blogpost laat ik zien hoe de meestgebruikte vorm van ultrasound imaging werkt. Deze techniek heet **Delay-And-Sum beamforming** of DAS in het kort.
 
 Laten we eerst kijken naar wat er fysiek gebeurt bij het maken van een echo en naar wat we eigenlijk aan het meten zijn. Om een plaatje te maken met ultrasound wordt er gebruikgemaakt van een _transducer_. Dit is een meetinstrument met daarin een rij sensors die geluidsgolven kunnen uitzenden en opvangen. Om een beeld te vormen wordt eerst een geluidsgolf uitgezonden. De geluidsgolf beweegt door het weefsel heen waar het op verschillende structuren reflecteert. Dit proces van reflecteren is super complex, maar gelukkig bestaat er een simpel model voor:
 
