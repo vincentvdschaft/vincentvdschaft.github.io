@@ -16,7 +16,7 @@ To understand the beamforming process, let's first look at a highly simplified s
 
 <details open>
     <summary>(Click to collapse)</summary>
-<img src="{{ 'assets/images/scene-0-just-one-en-dark.gif' | relative_url }}" style="border:none;"/> </a>
+<img src="{{ 'assets/images/scene-0-just-one-en-dark.gif' | relative_url }}" style="border:none;"/>
 <p></p>
 </details>
 
@@ -38,7 +38,7 @@ But we are not only interested in **how far away** the scatterer is. We want to 
 
 <details open>
     <summary>(Click to collapse)</summary>
-<a href="https://drive.google.com/uc?export=view&id=1Xq095HKswiV1lCZUUHZNNiTy_19dKppw"> <img src="https://drive.google.com/uc?export=view&id=1Xq095HKswiV1lCZUUHZNNiTy_19dKppw"  style="border:none;"/> </a>
+<img src="{{ 'assets/images/scene-1-rotated-en-dark.gif' | relative_url }}" style="border:none;"/>
 <p></p>
 </details>
 
@@ -46,7 +46,7 @@ This means that the reflections of all scatterers that lie on a circle arrive si
 
 <details open>
     <summary>(Click to collapse)</summary>
-<a href="https://drive.google.com/uc?export=view&id=1XqFCd5jf6eVFcQe6N7jgyl-vH8ZjzqwL"> <img src="https://drive.google.com/uc?export=view&id=1XqFCd5jf6eVFcQe6N7jgyl-vH8ZjzqwL"  style="border:none;"/> </a>
+<img src="{{ 'assets/images/scene-2-circle-en-dark.gif' | relative_url }}" style="border:none;"/>
 <p></p>
 </details>
 
@@ -72,7 +72,7 @@ The possible locations for the scatterer are therefore the locations for which t
 
 <details open>
     <summary>(Click to collapse)</summary>
-<a href="https://drive.google.com/uc?export=view&id=1XsByLan6U7evcvfuIrpRerWKopddLS3h"> <img src="https://drive.google.com/uc?export=view&id=1XsByLan6U7evcvfuIrpRerWKopddLS3h"  style="border:none;"/> </a>
+<img src="{{ 'assets/images/scene-3-multiple-sensors-en-dark.gif' | relative_url }}" style="border:none;"/>
 <p></p>
 </details>
 
@@ -82,7 +82,7 @@ We have now seen that with one sensor, we can determine how far away a scatterer
 
 <details open>
     <summary>(Click to collapse)</summary>
-<a href="https://drive.google.com/uc?export=view&id=1Xy2cO6inUjmfMIk5cvI8_ndn4fNJyq93"> <img src="https://drive.google.com/uc?export=view&id=1Xy2cO6inUjmfMIk5cvI8_ndn4fNJyq93"  style="border:none;"/> </a>
+<img src="{{ 'assets/images/scene-5-many-sensors-scatterers-en-dark.gif' | relative_url }}" style="border:none;"/>
 <p></p>
 </details>
 
@@ -106,7 +106,7 @@ The image below shows what happens when you look at different locations $P$ in t
 
 <details open>
     <summary>(Click to collapse)</summary>
-<a href="https://drive.google.com/uc?export=view&id=1Xy9OCDCsRtD-UVnxDSF-MxwfYdQqwFxl"> <img src="https://drive.google.com/uc?export=view&id=1Xy9OCDCsRtD-UVnxDSF-MxwfYdQqwFxl"  style="border:none;"/> </a>
+<img src="{{ 'assets/images/scene-6-focussing-en-dark.gif' | relative_url }}" style="border:none;"/>
 <p></p>
 </details>
 
