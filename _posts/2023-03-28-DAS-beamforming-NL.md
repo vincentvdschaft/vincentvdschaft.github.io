@@ -15,7 +15,7 @@ Om het beamforming proces te begrijpen kijken we eerst naar een sterk versimpeld
 
 <details open>
     <summary>(klik om in te klappen)</summary>
-<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qsPf2giLjkCII38VLK2agntR1smzjcEKmtvSuULG1rslnPxVHBmjyFTLmEMVpCu7_RbDFGoq2oqkbr1UPMyx8jWOVKEA=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qsPf2giLjkCII38VLK2agntR1smzjcEKmtvSuULG1rslnPxVHBmjyFTLmEMVpCu7_RbDFGoq2oqkbr1UPMyx8jWOVKEA=s1600" style="border:none;"/> </a>
+<img src="{{ 'assets/images/scene-0-just-one-nl-dark.gif' | relative_url }}" style="border:none;"/>
 <p></p>
 </details>
 
@@ -37,7 +37,7 @@ Maar we zijn niet alleen geïnteresseerd in **hoe ver weg** de verstrooier is. W
 
 <details open>
     <summary>(klik om in te klappen)</summary>
-<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81oAE9Kss72nydYhGhcE-gtfEkkUga-eM3Y1MBehpCsQkgVVcfCrgzXZw67j9puQcwVOO_GoKZuZu4JRBMH5ih9K5VLPUg=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81oAE9Kss72nydYhGhcE-gtfEkkUga-eM3Y1MBehpCsQkgVVcfCrgzXZw67j9puQcwVOO_GoKZuZu4JRBMH5ih9K5VLPUg=s1600" style="border:none;"/> </a>
+<img src="{{ 'assets/images/scene-1-rotated-nl-dark.gif' | relative_url }}" style="border:none;"/>
 <p></p>
 </details>
 
@@ -45,7 +45,7 @@ Dit betekent dat de reflecties van alle verstrooiers die op een circkel liggen t
 
 <details open>
     <summary>(klik om in te klappen)</summary>
-<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qy_BkwfPuJfoLLr46OT-i_EvzjVal1z1mDI7W7d42ry000zyLcZAmKOm-MNozSaAQOnF8iAGsqhZRithrvkEZHBvtnDQ=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qy_BkwfPuJfoLLr46OT-i_EvzjVal1z1mDI7W7d42ry000zyLcZAmKOm-MNozSaAQOnF8iAGsqhZRithrvkEZHBvtnDQ=s1600" style="border:none;"/> </a>
+<img src="{{ 'assets/images/scene-2-circle-nl-dark.gif' | relative_url }}" style="border:none;"/>
 <p></p>
 </details>
 
@@ -72,7 +72,7 @@ De mogelijke locaties voor de verstrooier zijn nu dus de locaties waarvoor deze 
 
 <details open>
     <summary>(klik om in te klappen)</summary>
-<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81ox_tczrM9pGIjtwPVjFAB2oGm4AQdbGaYs2uFZgLYdXMxxp6lGQeomEKpcdYmBu955O8Axt7c6g2UBri2vAKeTLw2xVQ=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81ox_tczrM9pGIjtwPVjFAB2oGm4AQdbGaYs2uFZgLYdXMxxp6lGQeomEKpcdYmBu955O8Axt7c6g2UBri2vAKeTLw2xVQ=s1600" style="border:none;"/> </a>
+<img src="{{ 'assets/images/scene-3-multiple-sensors-nl-dark.gif' | relative_url }}" style="border:none;"/>
 <p></p>
 </details>
 
@@ -82,7 +82,7 @@ We hebben nu gezien dat je met een sensor kan bepalen hoe ver een verstrooier we
 
 <details open>
     <summary>(klik om in te klappen)</summary>
-<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81p-XQat-e7k-AZZKp8VfmJQahVU3VoR6sjV2KyB9kkoJx2trizXneM-siKJVKkWmyuNNYbYfX4LeOZ2bKR-B583tLH3=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81p-XQat-e7k-AZZKp8VfmJQahVU3VoR6sjV2KyB9kkoJx2trizXneM-siKJVKkWmyuNNYbYfX4LeOZ2bKR-B583tLH3=s1600" style="border:none;"/> </a>
+<img src="{{ 'assets/images/scene-5-many-sensors-scatterers-nl-dark.gif' | relative_url }}" style="border:none;"/>
 <p></p>
 </details>
 
@@ -106,7 +106,7 @@ Het plaatje hieronder laat zien wat er gebeurt als je op deze manier op verschil
 
 <details open>
     <summary>(klik om in te klappen)</summary>
-<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qOSrGvPHQhU3FTQBX_Niy0k7rY1ucw46luF6MtErESjHC70xyW7LKwIR-HUSO35l-qr1IHmIsJ2s2fTND2i0LrD66CdQ=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qOSrGvPHQhU3FTQBX_Niy0k7rY1ucw46luF6MtErESjHC70xyW7LKwIR-HUSO35l-qr1IHmIsJ2s2fTND2i0LrD66CdQ=s1600" style="border:none;"/> </a>
+<img src="{{ 'assets/images/scene-6-focussing-nl-dark.gif' | relative_url }}" style="border:none;"/>
 <p></p>
 </details>
 Aan dit plaatje kunnen we een aantal dingen zien.
