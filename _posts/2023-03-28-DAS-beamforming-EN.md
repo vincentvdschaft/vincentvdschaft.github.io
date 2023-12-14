@@ -16,7 +16,7 @@ To understand the beamforming process, let's first look at a highly simplified s
 
 <details open>
     <summary>(Click to collapse)</summary>
-<a href="https://drive.google.com/uc?export=view&id=1wZM23qHatUBOjK2lSWhAXmeZ5lzhe72m"> <img src="https://drive.google.com/uc?export=view&id=1wZM23qHatUBOjK2lSWhAXmeZ5lzhe72m"  style="border:none;"/> </a>
+<a href="https://drive.google.com/uc?export=view&id=1XpACJKDf5O05lf_Q_q4_7jCtjIHIumh7"> <img src="https://drive.google.com/uc?export=view&id=1XpACJKDf5O05lf_Q_q4_7jCtjIHIumh7"  style="border:none;"/> </a>
 <p></p>
 </details>
 
@@ -38,7 +38,7 @@ But we are not only interested in **how far away** the scatterer is. We want to 
 
 <details open>
     <summary>(Click to collapse)</summary>
-<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81oAE9Kss72nydYhGhcE-gtfEkkUga-eM3Y1MBehpCsQkgVVcfCrgzXZw67j9puQcwVOO_GoKZuZu4JRBMH5ih9K5VLPUg=s1600?source=screenshot.guru"> <img src="https://drive.google.com/uc?export=view&id=1q3rOol3qPVWTe9v5iOZhqzYp_ujc2cGo"  style="border:none;"/> </a>
+<a href="https://drive.google.com/uc?export=view&id=1Xq095HKswiV1lCZUUHZNNiTy_19dKppw"> <img src="https://drive.google.com/uc?export=view&id=1Xq095HKswiV1lCZUUHZNNiTy_19dKppw"  style="border:none;"/> </a>
 <p></p>
 </details>
 
@@ -46,7 +46,7 @@ This means that the reflections of all scatterers that lie on a circle arrive si
 
 <details open>
     <summary>(Click to collapse)</summary>
-<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qy_BkwfPuJfoLLr46OT-i_EvzjVal1z1mDI7W7d42ry000zyLcZAmKOm-MNozSaAQOnF8iAGsqhZRithrvkEZHBvtnDQ=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qy_BkwfPuJfoLLr46OT-i_EvzjVal1z1mDI7W7d42ry000zyLcZAmKOm-MNozSaAQOnF8iAGsqhZRithrvkEZHBvtnDQ=s1600" style="border:none;"/> </a>
+<a href="https://drive.google.com/uc?export=view&id=1XqFCd5jf6eVFcQe6N7jgyl-vH8ZjzqwL"> <img src="https://drive.google.com/uc?export=view&id=1XqFCd5jf6eVFcQe6N7jgyl-vH8ZjzqwL"  style="border:none;"/> </a>
 <p></p>
 </details>
 
@@ -72,7 +72,7 @@ The possible locations for the scatterer are therefore the locations for which t
 
 <details open>
     <summary>(Click to collapse)</summary>
-<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81ox_tczrM9pGIjtwPVjFAB2oGm4AQdbGaYs2uFZgLYdXMxxp6lGQeomEKpcdYmBu955O8Axt7c6g2UBri2vAKeTLw2xVQ=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81ox_tczrM9pGIjtwPVjFAB2oGm4AQdbGaYs2uFZgLYdXMxxp6lGQeomEKpcdYmBu955O8Axt7c6g2UBri2vAKeTLw2xVQ=s1600" style="border:none;"/> </a>
+<a href="https://drive.google.com/uc?export=view&id=1XsByLan6U7evcvfuIrpRerWKopddLS3h"> <img src="https://drive.google.com/uc?export=view&id=1XsByLan6U7evcvfuIrpRerWKopddLS3h"  style="border:none;"/> </a>
 <p></p>
 </details>
 
@@ -82,7 +82,7 @@ We have now seen that with one sensor, we can determine how far away a scatterer
 
 <details open>
     <summary>(Click to collapse)</summary>
-<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81p-XQat-e7k-AZZKp8VfmJQahVU3VoR6sjV2KyB9kkoJx2trizXneM-siKJVKkWmyuNNYbYfX4LeOZ2bKR-B583tLH3=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81p-XQat-e7k-AZZKp8VfmJQahVU3VoR6sjV2KyB9kkoJx2trizXneM-siKJVKkWmyuNNYbYfX4LeOZ2bKR-B583tLH3=s1600" style="border:none;"/> </a>
+<a href="https://drive.google.com/uc?export=view&id=1Xy2cO6inUjmfMIk5cvI8_ndn4fNJyq93"> <img src="https://drive.google.com/uc?export=view&id=1Xy2cO6inUjmfMIk5cvI8_ndn4fNJyq93"  style="border:none;"/> </a>
 <p></p>
 </details>
 
@@ -106,7 +106,7 @@ The image below shows what happens when you look at different locations $P$ in t
 
 <details open>
     <summary>(Click to collapse)</summary>
-<a href="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qOSrGvPHQhU3FTQBX_Niy0k7rY1ucw46luF6MtErESjHC70xyW7LKwIR-HUSO35l-qr1IHmIsJ2s2fTND2i0LrD66CdQ=s1600?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AFGJ81qOSrGvPHQhU3FTQBX_Niy0k7rY1ucw46luF6MtErESjHC70xyW7LKwIR-HUSO35l-qr1IHmIsJ2s2fTND2i0LrD66CdQ=s1600"  style="border:none;"/> </a>
+<a href="https://drive.google.com/uc?export=view&id=1Xy9OCDCsRtD-UVnxDSF-MxwfYdQqwFxl"> <img src="https://drive.google.com/uc?export=view&id=1Xy9OCDCsRtD-UVnxDSF-MxwfYdQqwFxl"  style="border:none;"/> </a>
 <p></p>
 </details>
 
